@@ -33,5 +33,8 @@ Started GET "/hello_world" for 127.0.0.1 at 2015-11-25 12:24:22 -0600
 Started GET "/hello_world" for 127.0.0.1 at 2018-11-13 03:04:33 +0000
 Processing by StaticController#hello_world as HTML
   Rendered static/hello_world.html.erb within layouts/application (1.3ms)
+<<<<<<< HEAD
 Completed 200 OK in 429ms (Views: 420.4ms | ActiveRecord: 0.0ms)
   [1m[35m (0.1ms)[0m  rollback transaction
+=======
+>>>>>>> 5c9982130332fcdbf5b8a14acaf06e2ce79ceead
